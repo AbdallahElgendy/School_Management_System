@@ -15,7 +15,7 @@ Make sure you have installed:
 ### 🔧 Installation
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/easy-school.git
+https://github.com/AbdallahElgendy/School_Management_System.git
 ```
 Navigate to the project folder:
 ```
